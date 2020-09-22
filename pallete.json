@@ -1,0 +1,35 @@
+{
+    "acid": {
+        "base": "#3DEB1E",
+        "flavors": [
+            "#00A6A6",
+            "#FD7623",
+            "#D145ED",
+            "#F72343"
+        ]
+    },
+    "purple": {
+        "base": "#391463",
+        "shades": [
+            "#1E1628",
+            "#1A0C2C",
+            "#2C213A",
+            "#643B8E",
+            "#9064BB",
+            "#BE8EE9",
+            "#EDBBFF"
+        ]
+    },
+    "sweeteners": {
+        "TeaGreen": "#CFFFB3",
+        "Ivory": "#F3FCEE",
+        "Magnolia": "#F7F1FF"
+    },
+    "neutral": [
+        "#4C4452",
+        "#364954",
+        "#9F88B2",
+        "#454839",
+        "#454839"
+    ]
+}
