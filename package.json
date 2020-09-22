@@ -1,0 +1,45 @@
+{
+  "name": "theme-acid-purple",
+  "version": "1.0.0",
+  "displayName": "Acid Purple",
+  "homepage": "https://github.com/jvitorfrancisco/acid-purple",
+  "description": "An acid theme with a little of purple",
+  "publisher": "jvitorfrancisco",
+  "license": "MIT",
+  "maintainers": [
+    "João Vitor de Francisco <jvitorfrancisco.dev@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvitorfrancisco/acid-purple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jvitorfrancisco/acid-purple/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "green",
+    "purple",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#140623",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Acid Purple",
+        "uiTheme": "vs-dark",
+        "path": "./theme/acid-purple.json"
+      }
+    ]
+  }
+}
