@@ -1,8 +1,11 @@
-# Acid Purple
+<h1 align="center">
+  <img src="./acid.png" alt="Omni"><br />
+  Acid Purple
+</h1>
 
-<p>Acid Purple theme for Visual Studio Code.</p>
+<p>A pretty dark theme for Visual Studio Code.</p>
 
-Theme inspired and based on [Omni](https://github.com/getomni/vscode-omni).
+This theme was inspired and based on [Omni](https://github.com/getomni/vscode-omni).
 
 <img src="./demo.png" alt="preview" />
 
