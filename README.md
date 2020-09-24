@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./acid.png" alt="Omni"><br />
+  <img src="https://i.imgur.com/kjGwk3c.png" alt="Acid"><br />
   Acid Purple
 </h1>
 
@@ -7,7 +7,7 @@
 
 This theme was inspired and based on [Omni](https://github.com/getomni/vscode-omni).
 
-<img src="./demo.png" alt="preview" />
+<img src="https://i.imgur.com/i4k7vFC.png" alt="preview" />
 
 #### How to install
 
