@@ -11,6 +11,12 @@ This theme was inspired and based on [Omni](https://github.com/getomni/vscode-om
 
 #### How to install
 
+##### From Marketplace
+
+Open vscode marketplace and search for Acid purple.
+
+##### From github
+
 Just clone the repository on the <b>vscode extensions folder</b>:
 
   Windows: 
