@@ -36,9 +36,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Acid Purple",
+        "label": "Acid Purple (Classic)",
         "uiTheme": "vs-dark",
-        "path": "./theme/acid-purple.json"
+        "path": "./theme/acid-purple-classic.json"
+      },
+      {
+        "label": "Acid Purple (Orange)",
+        "uiTheme": "vs-dark",
+        "path": "./theme/acid-purple-orange.json"
+      },
+      {
+        "label": "Acid Purple (Pink)",
+        "uiTheme": "vs-dark",
+        "path": "./theme/acid-purple-pink.json"
       }
     ]
   }

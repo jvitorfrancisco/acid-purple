@@ -23,7 +23,9 @@
     "sweeteners": {
         "TeaGreen": "#CFFFB3",
         "Ivory": "#F3FCEE",
-        "Magnolia": "#F7F1FF"
+        "Magnolia": "#F7F1FF",
+        "Atomic Tangerine": "#FFA770",
+        "Mauve": "#E8A2F6"
     },
     "neutral": [
         "#4C4452",
