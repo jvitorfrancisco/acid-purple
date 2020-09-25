@@ -8,12 +8,14 @@
 This theme was inspired and based on [Omni](https://github.com/getomni/vscode-omni).
 
 <h3>Typescript React Preview</h3>
-![Typescript React Preview](https://i.imgur.com/HymIvvz.gifv)
+
+<img src="https://i.imgur.com/HymIvvz.gif" />
 
 <br><br>
 
 <h3>C# Preview</h3>
-[C# Preview](https://i.imgur.com/3CwDzkB.gifv)
+
+<img src="https://i.imgur.com/3CwDzkB.gif" />
 
 #### How to install
 
